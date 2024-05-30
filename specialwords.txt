@@ -1,0 +1,12 @@
+#plants
+
+tree
+grass
+bush
+
+#animals 
+
+tiger
+lion
+bear
+
